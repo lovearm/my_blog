@@ -4,11 +4,13 @@ description: A collection of Lingoda classes
 
 # All
 
-# Describing a graph
+## All
+
+## Describing a graph
 
 People say, a picture is worth a thousand words.
 
-## 1. Vocabularies
+### 1. Vocabularies
 
 * This **chart** is simply a representation of stock prices over the course of the past year.
 * An **outline** of your basic duties will be provided on your first day.
@@ -21,7 +23,7 @@ People say, a picture is worth a thousand words.
 * We should **dissect** the issue by approaching it step by step and methodically.
 * The accounting department will provide a **breakdown** of the spending for the year in weekly categories.
 
-## 2. Different types of charts and diagrams
+### 2. Different types of charts and diagrams
 
 | Type | Explanation |
 | :---: | :--- |
@@ -32,7 +34,7 @@ People say, a picture is worth a thousand words.
 | bar chart | The data in **bar charts** are displayed in rectangular bars which are usually vertical. They can also come in a horizontal format. |
 | pie chart | A **pie chart** shows how a total value is divided. It is divided from its centre and is always in a circular form. |
 
-## 3. Main elements of a graph
+### 3. Main elements of a graph
 
 There are five basic elements that make a **graph** perfect.
 
@@ -44,7 +46,7 @@ There are five basic elements that make a **graph** perfect.
 | data/coordinate points |
 | title |
 
-## Population density
+### Population density
 
 Between 1900 and 2000, the world population increased from.
 
