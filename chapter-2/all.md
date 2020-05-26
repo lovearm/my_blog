@@ -8,7 +8,7 @@ description: A collection of Lingoda classes
 
 People say, a picture is worth a thousand words.
 
-### 1. Vocabularies
+## 1. Vocabularies
 
 * This **chart** is simply a representation of stock prices over the course of the past year.
 * An **outline** of your basic duties will be provided on your first day.
@@ -36,10 +36,6 @@ People say, a picture is worth a thousand words.
 
 There are five basic elements that make a **graph** perfect.
 
-
-
-![graph](assets/20200521103422689_2359.png)
-
 | elements |
 | :---: |
 | axis labels \(x-axis and y-axis\) |
@@ -47,4 +43,8 @@ There are five basic elements that make a **graph** perfect.
 | intervals of the scale |
 | data/coordinate points |
 | title |
+
+### Population density
+
+Between 1900 and 2000, the world population increased from.
 

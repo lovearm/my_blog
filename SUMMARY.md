@@ -2,9 +2,9 @@
 
 * [Initial page](README.md)
 
-## Chapter 1 <a id="chapter-2-1"></a>
+## Chapter 1
 
-* [All](chapter-2-1/untitled.md)
+* [All](chapter-1/untitled.md)
 
 ## Chapter 2
 
